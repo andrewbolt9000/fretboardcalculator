@@ -54,6 +54,8 @@ More features are planned for release!  If you see a feature here that <i>you</i
 - Historical information about the scale or mode.
 - Optional age restriction feature for censoring unsavory historical information about attrocities committed by people who shred dorian.
 - Note naming features.
+- Quick view (Eye of Horus) for Secret Circle View (if you know you know).
+- Interval naming of scale/filtered notes.  See distance from previous note.  (stacked 3rds etc).
 - Lock/Follow keychange for Range Filters.
 - Hide piano button (for effeciency).
 - Save/resume settings.

@@ -5,7 +5,7 @@ hide_title: true
 ---
 
 # SITE UNDER CONSTRUCTION!!
-### Available in October
+### Available soon!
 
 
 <section id="hero" style="text-align:center; padding:1rem;">

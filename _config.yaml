@@ -12,4 +12,5 @@ plugins:
 header_pages:
   - index.md
   - support.md
+  - privacy.md
   - about.md
