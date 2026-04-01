@@ -16,8 +16,6 @@ Send a <a href="mailto:FretboardCalc@proton.me?subject=Feature%20Request">
   Feature Request.
 </a>
 
----
-
 ## Documentation
 
 Quick Start Guide <a href=
