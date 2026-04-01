@@ -16,6 +16,15 @@ Send a <a href="mailto:FretboardCalc@proton.me?subject=Feature%20Request">
   Feature Request.
 </a>
 
+---
+
+## Documentation
+
+Quick Start Guide <a href=
+"{{ '/assets/documents/Fretboard_Calculator_Quick_Start_Guide_v1.1.pdf' | relative_url }}" download>
+  Download
+</a>
+
 
 ## Alternate tunings
 If you have discovered an awesome new guitar tuning and would <b>like to name it</b>, you can stake your claim by adding it to Fretboard Calculator.  Also, if you just want to see your favorite guitar tunings <a href="mailto:FretboardCalc@proton.me?subject=Alternate%20Tunings&body=I%20wish%20this%20tuning%20was%20included%3A%20__________%0D%0Aand%20it%20should%20have%20cool%20alternate%20names%20like%3A%20____________">

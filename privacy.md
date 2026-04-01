@@ -14,7 +14,7 @@ Fretboard Calculator will NEVER collect any data which can be used identify you,
 
 
 ## GDPR
-This application is compliant with General Data Protection Regulation (GDPR).  No user data is collected so no user data collection consent form is neccessary.   Users in the EU have the right to access or request deletion of any data collected even though none is collected.  Unfortunately users in the United States have no GDPR laws or equivalent at the federal level.  If you live in a state that cares about your natural data protection rights, then all state privacy laws will be honored.
+This application is compliant with General Data Protection Regulation (GDPR).  No user data is collected so no user data collection consent form is neccessary.  Users in the EU have the right to access or request deletion of any data collected even though none is collected.  Unfortunately users in the United States have no GDPR laws or equivalent at the federal level.  If you live in a state that cares about your natural data protection rights, then local state privacy laws will be honored.
 
 
 ## Contact
@@ -22,14 +22,6 @@ Send privacy requests to <a href="mailto:FretboardCalc@proton.me?subject=GDPR%20
   FretboardCalc@proton.me
 </a>
 .
-
-
-
-
-
-
-
-
 
 
 
