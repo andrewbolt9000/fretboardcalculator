@@ -4,8 +4,7 @@ title: Home
 hide_title: true
 ---
 
-# SITE UNDER CONSTRUCTION!!
-### Available soon!
+### Available NOW!
 
 
 <section id="hero" style="text-align:center; padding:1rem;">
@@ -13,7 +12,7 @@ hide_title: true
   <h1>Fretboard Calculator: Scales</h1>
   <p>Scale computations at your fingertips.</p>
 
-<a href="https://apps.apple.com/app/idYOUR_APP_ID">
+<a href="https://apps.apple.com/us/app/fretboard-calculator-scales/id6753096431">
   <img src="{{ '/assets/images/Download_on_Mac_App_Store/Black_lockup/SVG/Download_on_the_Mac_App_Store_Badge_US-UK_RGB_blk_092917.svg' | relative_url }}"
        alt="Download on the Mac App Store">
 </a>
