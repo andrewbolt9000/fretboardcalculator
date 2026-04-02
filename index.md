@@ -4,8 +4,6 @@ title: Home
 hide_title: true
 ---
 
-### Available NOW!
-
 
 <section id="hero" style="text-align:center; padding:1rem;">
   <img src="{{ '/assets/images/Icon_full_medium_size.png' | relative_url }}" alt="App Icon" class="half-screen-img" >
